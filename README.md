@@ -18,8 +18,8 @@ The intent of this program is to exemplify the usage of a custom serializer to r
 1. **Clone the repository:**
 
     ```sh
-    git clone https://github.com/your-repo/custom-serializer-example.git
-    cd custom-serializer-example
+    git clone https://github.com/takabayashi/KafkaDotNetExample.git
+    cd KafkaDotNetExample
     ```
 
 2. **Build the project:**
